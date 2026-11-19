@@ -34,7 +34,7 @@ GH5K8MNP
 Requirements: Node.js 18 or later.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/smartcode-generator.git
+git clone https://github.com/sochifree/smartcode-generator.git
 cd smartcode-generator
 npm start
 ```
